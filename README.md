@@ -41,9 +41,13 @@ b.  KCL:
 CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
+1.kvl
 
+![kvl 1](https://github.com/user-attachments/assets/f0f61a64-842f-4835-859e-de07ff67aed2)
 
- ![exp01](https://github.com/user-attachments/assets/2dc06838-ada0-43fd-ba63-41dc5092ddcc)
+2.KCL
+
+![kcl 1](https://github.com/user-attachments/assets/ee2c5d6c-605e-49da-b13f-c09ed32d1901)
 
 
 Calculation:
