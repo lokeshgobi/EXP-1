@@ -61,8 +61,8 @@ Tabulation:
 
 a.   KVL:
  
-![kvl](https://github.com/user-attachments/assets/41aa9665-55da-41cd-97e6-3fb5ddd87b0d)
 
+![table](https://github.com/user-attachments/assets/9c084f09-4c90-40f9-9eb9-79688cb3c8ad)
 
 
 b.  KCL:
